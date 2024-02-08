@@ -27,7 +27,7 @@ To use the Sudoku Solver Web App, simply open the app in your web browser and st
 
 ## Demo
 
-You can try out the Sudoku Solver Web App [here](#).
+You can try out the Sudoku Solver Web App [here](https://sudoku-ham.netlify.app/).
 
 ## Support
 
